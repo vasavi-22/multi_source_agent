@@ -1,0 +1,3 @@
+If product price is significantly below market average, it may indicate a discount opportunity.
+
+High average price with low variance indicates premium product category.

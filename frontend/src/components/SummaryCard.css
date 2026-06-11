@@ -1,0 +1,18 @@
+.summary-card {
+  background: #ffffff;
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 10px;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.summary-card h2 {
+  margin-bottom: 15px;
+  color: #4f46e5;
+}
+
+.summary-content p {
+  margin: 8px 0;
+  line-height: 1.6;
+  color: #333;
+}

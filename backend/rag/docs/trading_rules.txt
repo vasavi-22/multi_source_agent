@@ -1,0 +1,7 @@
+Risk management rule:
+Never risk more than 2% of total capital on a single trade.
+
+RSI below 30 indicates oversold condition.
+RSI above 70 indicates overbought condition.
+
+If stock drops more than 5% in one day, it indicates volatility spike.

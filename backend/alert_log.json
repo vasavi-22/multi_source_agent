@@ -1,0 +1,433 @@
+{
+  "events": [
+    {
+      "type": "product_price_threshold",
+      "domain": "product",
+      "entity": "The Requiem Red",
+      "value": 22.65,
+      "threshold": 30.0,
+      "reason": "Price below static threshold"
+    },
+    {
+      "type": "product_price_threshold",
+      "domain": "product",
+      "entity": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",
+      "value": 17.93,
+      "threshold": 30.0,
+      "reason": "Price below static threshold"
+    },
+    {
+      "type": "product_price_threshold",
+      "domain": "product",
+      "entity": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+      "value": 22.6,
+      "threshold": 30.0,
+      "reason": "Price below static threshold"
+    },
+    {
+      "type": "product_price_threshold",
+      "domain": "product",
+      "entity": "Starving Hearts (Triangular Trade Trilogy, #1)",
+      "value": 13.99,
+      "threshold": 30.0,
+      "reason": "Price below static threshold"
+    },
+    {
+      "type": "product_price_threshold",
+      "domain": "product",
+      "entity": "Shakespeare's Sonnets",
+      "value": 20.66,
+      "threshold": 30.0,
+      "reason": "Price below static threshold"
+    },
+    {
+      "type": "product_price_threshold",
+      "domain": "product",
+      "entity": "Set Me Free",
+      "value": 17.46,
+      "threshold": 30.0,
+      "reason": "Price below static threshold"
+    },
+    {
+      "type": "product_price_threshold",
+      "domain": "product",
+      "entity": "Olio",
+      "value": 23.88,
+      "threshold": 30.0,
+      "reason": "Price below static threshold"
+    },
+    {
+      "type": "stock_price_breakout",
+      "domain": "stock",
+      "entity": "AAPL",
+      "value": 276.23150634765625,
+      "threshold": 200,
+      "reason": "Close above breakout threshold"
+    },
+    {
+      "type": "stock_price_breakout",
+      "domain": "stock",
+      "entity": "AAPL",
+      "value": 275.6520690917969,
+      "threshold": 200,
+      "reason": "Close above breakout threshold"
+    },
+    {
+      "type": "stock_price_breakout",
+      "domain": "stock",
+      "entity": "AAPL",
+      "value": 277.8599853515625,
+      "threshold": 200,
+      "reason": "Close above breakout threshold"
+    },
+    {
+      "type": "stock_price_breakout",
+      "domain": "stock",
+      "entity": "AAPL",
+      "value": 274.6199951171875,
+      "threshold": 200,
+      "reason": "Close above breakout threshold"
+    },
+    {
+      "type": "stock_price_breakout",
+      "domain": "stock",
+      "entity": "AAPL",
+      "value": 273.67999267578125,
+      "threshold": 200,
+      "reason": "Close above breakout threshold"
+    },
+    {
+      "type": "forex_rate_spike",
+      "domain": "forex",
+      "entity": "USDINR=X",
+      "value": 90.125,
+      "threshold": 85,
+      "reason": "Forex rate exceeded threshold"
+    },
+    {
+      "type": "forex_rate_spike",
+      "domain": "forex",
+      "entity": "USDINR=X",
+      "value": 90.3147964477539,
+      "threshold": 85,
+      "reason": "Forex rate exceeded threshold"
+    },
+    {
+      "type": "forex_rate_spike",
+      "domain": "forex",
+      "entity": "USDINR=X",
+      "value": 90.58799743652344,
+      "threshold": 85,
+      "reason": "Forex rate exceeded threshold"
+    },
+    {
+      "type": "forex_rate_spike",
+      "domain": "forex",
+      "entity": "USDINR=X",
+      "value": 90.82279968261719,
+      "threshold": 85,
+      "reason": "Forex rate exceeded threshold"
+    },
+    {
+      "type": "forex_rate_spike",
+      "domain": "forex",
+      "entity": "USDINR=X",
+      "value": 90.75250244140625,
+      "threshold": 85,
+      "reason": "Forex rate exceeded threshold"
+    }
+  ],
+  "count": 17,
+  "severity": "high",
+  "requires_action": true,
+  "decision_timestamp": "2026-02-11T14:52:06.765634",
+  "summary": "17 decision events generated."
+}{
+  "events": [
+    {
+      "type": "product_price_threshold",
+      "domain": "product",
+      "entity": "The Requiem Red",
+      "value": 22.65,
+      "threshold": 30.0,
+      "reason": "Price below static threshold"
+    },
+    {
+      "type": "product_price_threshold",
+      "domain": "product",
+      "entity": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",
+      "value": 17.93,
+      "threshold": 30.0,
+      "reason": "Price below static threshold"
+    },
+    {
+      "type": "product_price_threshold",
+      "domain": "product",
+      "entity": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+      "value": 22.6,
+      "threshold": 30.0,
+      "reason": "Price below static threshold"
+    },
+    {
+      "type": "product_price_threshold",
+      "domain": "product",
+      "entity": "Starving Hearts (Triangular Trade Trilogy, #1)",
+      "value": 13.99,
+      "threshold": 30.0,
+      "reason": "Price below static threshold"
+    },
+    {
+      "type": "product_price_threshold",
+      "domain": "product",
+      "entity": "Shakespeare's Sonnets",
+      "value": 20.66,
+      "threshold": 30.0,
+      "reason": "Price below static threshold"
+    },
+    {
+      "type": "product_price_threshold",
+      "domain": "product",
+      "entity": "Set Me Free",
+      "value": 17.46,
+      "threshold": 30.0,
+      "reason": "Price below static threshold"
+    },
+    {
+      "type": "product_price_threshold",
+      "domain": "product",
+      "entity": "Olio",
+      "value": 23.88,
+      "threshold": 30.0,
+      "reason": "Price below static threshold"
+    },
+    {
+      "type": "stock_price_breakout",
+      "domain": "stock",
+      "entity": "AAPL",
+      "value": 276.23150634765625,
+      "threshold": 200,
+      "reason": "Close above breakout threshold"
+    },
+    {
+      "type": "stock_price_breakout",
+      "domain": "stock",
+      "entity": "AAPL",
+      "value": 275.6520690917969,
+      "threshold": 200,
+      "reason": "Close above breakout threshold"
+    },
+    {
+      "type": "stock_price_breakout",
+      "domain": "stock",
+      "entity": "AAPL",
+      "value": 277.8599853515625,
+      "threshold": 200,
+      "reason": "Close above breakout threshold"
+    },
+    {
+      "type": "stock_price_breakout",
+      "domain": "stock",
+      "entity": "AAPL",
+      "value": 274.6199951171875,
+      "threshold": 200,
+      "reason": "Close above breakout threshold"
+    },
+    {
+      "type": "stock_price_breakout",
+      "domain": "stock",
+      "entity": "AAPL",
+      "value": 273.67999267578125,
+      "threshold": 200,
+      "reason": "Close above breakout threshold"
+    },
+    {
+      "type": "forex_rate_spike",
+      "domain": "forex",
+      "entity": "USDINR=X",
+      "value": 90.125,
+      "threshold": 85,
+      "reason": "Forex rate exceeded threshold"
+    },
+    {
+      "type": "forex_rate_spike",
+      "domain": "forex",
+      "entity": "USDINR=X",
+      "value": 90.3147964477539,
+      "threshold": 85,
+      "reason": "Forex rate exceeded threshold"
+    },
+    {
+      "type": "forex_rate_spike",
+      "domain": "forex",
+      "entity": "USDINR=X",
+      "value": 90.58799743652344,
+      "threshold": 85,
+      "reason": "Forex rate exceeded threshold"
+    },
+    {
+      "type": "forex_rate_spike",
+      "domain": "forex",
+      "entity": "USDINR=X",
+      "value": 90.82279968261719,
+      "threshold": 85,
+      "reason": "Forex rate exceeded threshold"
+    },
+    {
+      "type": "forex_rate_spike",
+      "domain": "forex",
+      "entity": "USDINR=X",
+      "value": 90.7300033569336,
+      "threshold": 85,
+      "reason": "Forex rate exceeded threshold"
+    }
+  ],
+  "count": 17,
+  "severity": "high",
+  "requires_action": true,
+  "decision_timestamp": "2026-02-11T14:57:42.251810",
+  "summary": "17 decision events generated."
+}{
+  "events": [
+    {
+      "type": "product_price_threshold",
+      "domain": "product",
+      "entity": "The Requiem Red",
+      "value": 22.65,
+      "threshold": 30.0,
+      "reason": "Price below static threshold"
+    },
+    {
+      "type": "product_price_threshold",
+      "domain": "product",
+      "entity": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",
+      "value": 17.93,
+      "threshold": 30.0,
+      "reason": "Price below static threshold"
+    },
+    {
+      "type": "product_price_threshold",
+      "domain": "product",
+      "entity": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+      "value": 22.6,
+      "threshold": 30.0,
+      "reason": "Price below static threshold"
+    },
+    {
+      "type": "product_price_threshold",
+      "domain": "product",
+      "entity": "Starving Hearts (Triangular Trade Trilogy, #1)",
+      "value": 13.99,
+      "threshold": 30.0,
+      "reason": "Price below static threshold"
+    },
+    {
+      "type": "product_price_threshold",
+      "domain": "product",
+      "entity": "Shakespeare's Sonnets",
+      "value": 20.66,
+      "threshold": 30.0,
+      "reason": "Price below static threshold"
+    },
+    {
+      "type": "product_price_threshold",
+      "domain": "product",
+      "entity": "Set Me Free",
+      "value": 17.46,
+      "threshold": 30.0,
+      "reason": "Price below static threshold"
+    },
+    {
+      "type": "product_price_threshold",
+      "domain": "product",
+      "entity": "Olio",
+      "value": 23.88,
+      "threshold": 30.0,
+      "reason": "Price below static threshold"
+    },
+    {
+      "type": "stock_price_breakout",
+      "domain": "stock",
+      "entity": "AAPL",
+      "value": 274.6199951171875,
+      "threshold": 200,
+      "reason": "Close above breakout threshold"
+    },
+    {
+      "type": "stock_price_breakout",
+      "domain": "stock",
+      "entity": "AAPL",
+      "value": 273.67999267578125,
+      "threshold": 200,
+      "reason": "Close above breakout threshold"
+    },
+    {
+      "type": "stock_price_breakout",
+      "domain": "stock",
+      "entity": "AAPL",
+      "value": 275.5,
+      "threshold": 200,
+      "reason": "Close above breakout threshold"
+    },
+    {
+      "type": "stock_price_breakout",
+      "domain": "stock",
+      "entity": "AAPL",
+      "value": 261.7300109863281,
+      "threshold": 200,
+      "reason": "Close above breakout threshold"
+    },
+    {
+      "type": "stock_price_breakout",
+      "domain": "stock",
+      "entity": "AAPL",
+      "value": 255.77999877929688,
+      "threshold": 200,
+      "reason": "Close above breakout threshold"
+    },
+    {
+      "type": "forex_rate_spike",
+      "domain": "forex",
+      "entity": "USDINR=X",
+      "value": 90.58799743652344,
+      "threshold": 85,
+      "reason": "Forex rate exceeded threshold"
+    },
+    {
+      "type": "forex_rate_spike",
+      "domain": "forex",
+      "entity": "USDINR=X",
+      "value": 90.82279968261719,
+      "threshold": 85,
+      "reason": "Forex rate exceeded threshold"
+    },
+    {
+      "type": "forex_rate_spike",
+      "domain": "forex",
+      "entity": "USDINR=X",
+      "value": 90.58789825439453,
+      "threshold": 85,
+      "reason": "Forex rate exceeded threshold"
+    },
+    {
+      "type": "forex_rate_spike",
+      "domain": "forex",
+      "entity": "USDINR=X",
+      "value": 90.73570251464844,
+      "threshold": 85,
+      "reason": "Forex rate exceeded threshold"
+    },
+    {
+      "type": "forex_rate_spike",
+      "domain": "forex",
+      "entity": "USDINR=X",
+      "value": 90.56410217285156,
+      "threshold": 85,
+      "reason": "Forex rate exceeded threshold"
+    }
+  ],
+  "count": 17,
+  "severity": "high",
+  "requires_action": true,
+  "decision_timestamp": "2026-02-15T14:47:26.465574",
+  "summary": "17 decision events generated."
+}
